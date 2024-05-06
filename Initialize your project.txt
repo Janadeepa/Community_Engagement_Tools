@@ -1,0 +1,5 @@
+Initialize your project:
+Create a new directory for your project and run npm init to initialize a new Node.js project. Install necessary dependencies:
+
+bash
+npm install express mongoose body-parser ejs
